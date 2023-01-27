@@ -1,0 +1,5 @@
+# What Prettier should ignore
+.pnpm
+.next
+dist
+node_modules
